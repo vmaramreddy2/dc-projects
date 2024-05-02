@@ -1,0 +1,24 @@
+{
+  "name": "galaxy-service",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "galaxy-service/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "galaxy-service:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "galaxy-service:build:development"
+        },
+        "production": {
+          "buildTarget": "galaxy-service:build:production"
+        }
+      }
+    }
+  }
+}

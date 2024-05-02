@@ -59,7 +59,7 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["auth-service-e2e/**/*"]
+      "exclude": ["auth-service-e2e/**/*", "galaxy-service-e2e/**/*"]
     },
     {
       "plugin": "@nx/webpack/plugin",

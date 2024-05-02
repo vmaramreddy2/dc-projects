@@ -1,0 +1,951 @@
+[
+  {
+      "name": "Andromeda Galaxy",
+      "designation": "NGC 224"
+  },
+  {
+      "name": "Messier 77",
+      "designation": "NGC 1068"
+  },
+  {
+      "name": "Sombrero Galaxy",
+      "designation": "NGC 4594"
+  },
+  {
+      "name": "Whirlpool Galaxy",
+      "designation": "NGC 5194"
+  },
+  {
+      "name": "Needle Galaxy",
+      "designation": "NGC 4254"
+  },
+  {
+      "name": "Wolf-Rayet Galaxy",
+      "designation": "NGC 4449"
+  },
+  {
+      "name": "Great Barred Spiral Galaxy",
+      "designation": "NGC 1365"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1300"
+  },
+  {
+      "name": "Fornax A",
+      "designation": "NGC 1316"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1365"
+  },
+  {
+      "name": "Sculptor Galaxy",
+      "designation": "NGC 4945"
+  },
+  {
+      "name": "Messier 66",
+      "designation": "NGC 3627"
+  },
+  {
+      "name": "Messier 94",
+      "designation": "NGC 4736"
+  },
+  {
+      "name": "Deer Lick Group",
+      "designation": "NGC 7331"
+  },
+  {
+      "name": "Starry Burst Dwarf Galaxy",
+      "designation": "NGC 1569"
+  },
+  {
+      "name": "Hockey Stick Galaxy",
+      "designation": "NGC 4656"
+  },
+  {
+      "name": "Perseus A",
+      "designation": "NGC 1275"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 1300"
+  },
+  {
+      "name": "Centaurus A",
+      "designation": "NGC 5128"
+  },
+  {
+      "name": "Box Spiral Galaxy",
+      "designation": "NGC 5746"
+  },
+  {
+      "name": "UFO Galaxy",
+      "designation": "NGC 2683"
+  },
+  {
+      "name": "Needle Galaxy",
+      "designation": "NGC 4565"
+  },
+  {
+      "name": "Spindle Galaxy",
+      "designation": "NGC 5866"
+  },
+  {
+      "name": "Whale Galaxy",
+      "designation": "NGC 4631"
+  },
+  {
+      "name": "Centaurus Cluster",
+      "designation": "NGC 4696"
+  },
+  {
+      "name": "Siamese Twins",
+      "designation": "NGC 4569"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1097"
+  },
+  {
+      "name": "Intermediate Spiral Galaxy",
+      "designation": "NGC 2903"
+  },
+  {
+      "name": "Antennae Galaxies",
+      "designation": "NGC 4038/NGC 4039"
+  },
+  {
+      "name": "Sculptor Galaxy",
+      "designation": "NGC 247"
+  },
+  {
+      "name": "Sculptor Galaxy",
+      "designation": "NGC 253"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 891"
+  },
+  {
+      "name": "Polar Ring Galaxy",
+      "designation": "NGC 1560"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 1161"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 772"
+  },
+  {
+      "name": "Hamburger Galaxy",
+      "designation": "NGC 3628"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3079"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 4526"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 1300"
+  },
+  {
+      "name": "Deer Lick Galaxy",
+      "designation": "NGC 7331"
+  },
+  {
+      "name": "Dwarf Irregular Galaxy",
+      "designation": "NGC 4214"
+  },
+  {
+      "name": "Needle Galaxy",
+      "designation": "NGC 4244"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 4736"
+  },
+  {
+      "name": "Centaurus A",
+      "designation": "NGC 5128"
+  },
+  {
+      "name": "Spindle Galaxy",
+      "designation": "NGC 5866"
+  },
+  {
+      "name": "Sculptor Galaxy",
+      "designation": "NGC 253"
+  },
+  {
+      "name": "Messier 66",
+      "designation": "NGC 3627"
+  },
+  {
+      "name": "Messier 77",
+      "designation": "NGC 1068"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 2403"
+  },
+  {
+      "name": "Messier 81",
+      "designation": "NGC 3031"
+  },
+  {
+      "name": "Whirlpool Galaxy",
+      "designation": "NGC 3034"
+  },
+  {
+      "name": "Dwarf Irregular Galaxy",
+      "designation": "NGC 3077"
+  },
+  {
+      "name": "Whale Galaxy",
+      "designation": "NGC 4631"
+  },
+  {
+      "name": "Whirlpool Galaxy",
+      "designation": "NGC 5194"
+  },
+  {
+      "name": "Pinwheel Galaxy",
+      "designation": "NGC 5457"
+  },
+  {
+      "name": "Dwarf Irregular Galaxy",
+      "designation": "NGC 5474"
+  },
+  {
+      "name": "Fireworks Galaxy",
+      "designation": "NGC 6946"
+  },
+  {
+      "name": "Deer Lick Galaxy",
+      "designation": "NGC 7331"
+  },
+  {
+      "name": "Messier 77",
+      "designation": "NGC 1068"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1097"
+  },
+  {
+      "name": "Intermediate Spiral Galaxy",
+      "designation": "NGC 1232"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1300"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1365"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1398"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1512"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1530"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1566"
+  },
+  {
+      "name": "Barred Spiral Galaxy",
+      "designation": "NGC 1672"
+  },
+  {
+      "name": "Seyfert Galaxy",
+      "designation": "NGC 2442"
+  },
+  {
+      "name": "Sculptor Galaxy",
+      "designation": "NGC 253"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 2787"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 2841"
+  },
+  {
+      "name": "Intermediate Spiral Galaxy",
+      "designation": "NGC 2903"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 2997"
+  },
+  {
+      "name": "Messier 81",
+      "designation": "NGC 3031"
+  },
+  {
+      "name": "Whirlpool Galaxy",
+      "designation": "NGC 3034"
+  },
+  {
+      "name": "Dwarf Irregular Galaxy",
+      "designation": "NGC 3077"
+  },
+  {
+      "name": "Spindle Galaxy",
+      "designation": "NGC 3115"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3184"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3198"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3259"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3310"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3351"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3377"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3521"
+  },
+  {
+      "name": "Messier 66",
+      "designation": "NGC 3627"
+  },
+  {
+      "name": "Hamburger Galaxy",
+      "designation": "NGC 3628"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3646"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3675"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3982"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 3992"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 4026"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 4030"
+  },
+  {
+      "name": "Antennae Galaxies",
+      "designation": "NGC 4038/NGC 4039"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 4041"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 4088"
+  },
+  {
+      "name": "Seyfert Galaxy",
+      "designation": "NGC 4151"
+  },
+  {
+      "name": "Spiral Galaxy",
+      "designation": "NGC 4183"
+  },
+  {
+      "name": "Dwarf Irregular Galaxy",
+      "designation": "NGC 4214"
+  },
+  {
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 4244"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 4736"
+},
+{
+    "name": "Centaurus A",
+    "designation": "NGC 5128"
+},
+{
+    "name": "Spindle Galaxy",
+    "designation": "NGC 5866"
+},
+{
+    "name": "Sculptor Galaxy",
+    "designation": "NGC 253"
+},
+{
+    "name": "Messier 66",
+    "designation": "NGC 3627"
+},
+{
+    "name": "Messier 77",
+    "designation": "NGC 1068"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 2403"
+},
+{
+    "name": "Messier 81",
+    "designation": "NGC 3031"
+},
+{
+    "name": "Whirlpool Galaxy",
+    "designation": "NGC 3034"
+},
+{
+    "name": "Dwarf Irregular Galaxy",
+    "designation": "NGC 3077"
+},
+{
+    "name": "Whale Galaxy",
+    "designation": "NGC 4631"
+},
+{
+    "name": "Whirlpool Galaxy",
+    "designation": "NGC 5194"
+},
+{
+    "name": "Pinwheel Galaxy",
+    "designation": "NGC 5457"
+},
+{
+    "name": "Dwarf Irregular Galaxy",
+    "designation": "NGC 5474"
+},
+{
+    "name": "Fireworks Galaxy",
+    "designation": "NGC 6946"
+},
+{
+    "name": "Deer Lick Galaxy",
+    "designation": "NGC 7331"
+},
+{
+    "name": "Messier 77",
+    "designation": "NGC 1068"
+},
+{
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 1097"
+},
+{
+    "name": "Intermediate Spiral Galaxy",
+    "designation": "NGC 1232"
+},
+{
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 1300"
+},
+{
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 1365"
+},
+{
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 1398"
+},
+{
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 1512"
+},
+{
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 1530"
+},
+{
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 1566"
+},
+{
+    "name": "Barred Spiral Galaxy",
+    "designation": "NGC 1672"
+},
+{
+    "name": "Seyfert Galaxy",
+    "designation": "NGC 2442"
+},
+{
+    "name": "Sculptor Galaxy",
+    "designation": "NGC 253"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 2787"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 2841"
+},
+{
+    "name": "Intermediate Spiral Galaxy",
+    "designation": "NGC 2903"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 2997"
+},
+{
+    "name": "Messier 81",
+    "designation": "NGC 3031"
+},
+{
+    "name": "Whirlpool Galaxy",
+    "designation": "NGC 3034"
+},
+{
+    "name": "Dwarf Irregular Galaxy",
+    "designation": "NGC 3077"
+},
+{
+    "name": "Spindle Galaxy",
+    "designation": "NGC 3115"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3184"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3198"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3259"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3310"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3351"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3377"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3521"
+},
+{
+    "name": "Messier 66",
+    "designation": "NGC 3627"
+},
+{
+    "name": "Hamburger Galaxy",
+    "designation": "NGC 3628"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3646"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3675"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3982"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 3992"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 4026"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 4030"
+},
+{
+    "name": "Antennae Galaxies",
+    "designation": "NGC 4038/NGC 4039"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 4041"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 4088"
+},
+{
+    "name": "Seyfert Galaxy",
+    "designation": "NGC 4151"
+},
+{
+    "name": "Spiral Galaxy",
+    "designation": "NGC 4183"
+},
+{
+    "name": "Dwarf Irregular Galaxy",
+    "designation": "NGC 4214"
+},
+{
+  "name": "NGC 4258 (Messier 106)"
+},
+{
+  "name": "NGC 4294"
+},
+{
+  "name": "NGC 4303 (Messier 61)"
+},
+{
+  "name": "NGC 4321 (Messier 100)"
+},
+{
+  "name": "NGC 4414"
+},
+{
+  "name": "NGC 4448"
+},
+{
+  "name": "NGC 4486B"
+},
+{
+  "name": "NGC 4535"
+},
+{
+  "name": "NGC 4548"
+},
+{
+  "name": "NGC 4561"
+},
+{
+  "name": "NGC 4567"
+},
+{
+  "name": "NGC 4568"
+},
+{
+  "name": "NGC 4579 (Messier 58)"
+},
+{
+  "name": "NGC 4596"
+},
+{
+  "name": "NGC 4605"
+},
+{
+  "name": "NGC 4636"
+},
+{
+  "name": "NGC 4649 (Messier 60)"
+},
+{
+  "name": "NGC 4654"
+},
+{
+  "name": "NGC 4666"
+},
+{
+  "name": "NGC 4689"
+},
+{
+  "name": "NGC 4694"
+},
+{
+  "name": "NGC 4698"
+},
+{
+  "name": "NGC 4710"
+},
+{
+  "name": "NGC 4725"
+},
+{
+  "name": "NGC 4754"
+},
+{
+  "name": "NGC 4756"
+},
+{
+  "name": "NGC 4781"
+},
+{
+  "name": "NGC 4826 (Messier 64)"
+},
+{
+  "name": "NGC 4845"
+},
+{
+  "name": "NGC 4889"
+},
+{
+  "name": "NGC 4921"
+},
+{
+  "name": "NGC 4941"
+},
+{
+  "name": "NGC 4958"
+},
+{
+  "name": "NGC 4959"
+},
+{
+  "name": "NGC 5023"
+},
+{
+  "name": "NGC 5033"
+},
+{
+  "name": "NGC 5055 (Messier 63)"
+},
+{
+  "name": "NGC 5068"
+},
+{
+  "name": "NGC 5101"
+},
+{
+  "name": "NGC 5102"
+},
+{
+  "name": "NGC 5128 (Centaurus A)"
+},
+{
+  "name": "NGC 5139 (Omega Centauri)"
+},
+{
+  "name": "NGC 5145"
+},
+{
+  "name": "NGC 5146"
+},
+{
+  "name": "NGC 5195 (Messier 51b)"
+},
+{
+  "name": "NGC 5236 (Messier 83)"
+},
+{
+  "name": "NGC 5253"
+},
+{
+  "name": "NGC 5457 (Messier 101)"
+},
+{
+  "name": "NGC 5475"
+},
+{
+  "name": "NGC 5476"
+},
+{
+  "name": "NGC 5477"
+},
+{
+  "name": "NGC 5485"
+},
+{
+  "name": "NGC 5496"
+},
+{
+  "name": "NGC 5544"
+},
+{
+  "name": "NGC 5545"
+},
+{
+  "name": "NGC 5548"
+},
+{
+  "name": "NGC 5557"
+},
+{
+  "name": "NGC 5566"
+},
+{
+  "name": "NGC 5576"
+},
+{
+  "name": "NGC 5585"
+},
+{
+  "name": "NGC 5587"
+},
+{
+  "name": "NGC 5589"
+},
+{
+  "name": "NGC 5597"
+},
+{
+  "name": "NGC 5614"
+},
+{
+  "name": "NGC 5626"
+},
+{
+  "name": "NGC 5635"
+},
+{
+  "name": "NGC 5643"
+},
+{
+  "name": "NGC 5646"
+},
+{
+  "name": "NGC 5647"
+},
+{
+  "name": "NGC 5653"
+},
+{
+  "name": "NGC 5658"
+},
+{
+  "name": "NGC 5660"
+},
+{
+  "name": "NGC 5665"
+},
+{
+  "name": "NGC 5668"
+},
+{
+  "name": "NGC 5674"
+},
+{
+  "name": "NGC 5676"
+},
+{
+  "name": "NGC 5680"
+},
+{
+  "name": "NGC 5689"
+},
+{
+  "name": "NGC 5690"
+},
+{
+  "name": "NGC 5694"
+},
+{
+  "name": "NGC 5701"
+},
+{
+  "name": "NGC 5703"
+},
+{
+  "name": "NGC 5705"
+},
+{
+  "name": "NGC 5713"
+},
+{
+  "name": "NGC 5719"
+},
+{
+  "name": "NGC 5728"
+},
+{
+  "name": "NGC 5732"
+},
+{
+  "name": "NGC 5739"
+},
+{
+  "name": "NGC 5740"
+},
+{
+  "name": "NGC 5742"
+},
+{
+  "name": "NGC 5746"
+},
+{
+  "name": "NGC 5754"
+},
+{
+  "name": "NGC 5755"
+},
+{
+  "name": "NGC 5764"
+},
+{
+  "name": "NGC 5775"
+},
+{
+  "name": "NGC 5780"
+},
+{
+  "name": "NGC 5784"
+},
+{
+  "name": "NGC 5789"
+},
+{
+  "name": "NGC 5806"
+},
+{
+  "name": "NGC 5829"
+},
+{
+  "name": "NGC 5830"
+},
+{
+  "name": "NGC 5846"
+},
+{
+  "name": "NGC 5869"
+},
+{
+  "name": "NGC 5874"
+},
+{
+  "name": "NGC 5878"
+},
+{
+  "name": "NGC 5879"
+},
+{
+  "name": "NGC 5890"
+}
+]
